@@ -1,1 +1,9 @@
-# Taller03-CompuMovil
+# Taller03 - Computación Móvil
+## Grupo Palomitas (Soft-Corn)
+
+## Integrantes
+- Nicolás Montaño Arias
+- Anton Patrignani
+- Santiago Ortiz Alarcón
+
+## Enlace al video demostrativo:
